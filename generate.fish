@@ -6,7 +6,7 @@ echo "# Identité visuelle d'INP-net
 
 for f in *.svg
 		set b (basename $f .svg)
-		echo "![$b]($f)" >> README.md
+		echo "[![$b]($f)]($f)" >> README.md
 end
 
 for d in */
@@ -17,6 +17,6 @@ for d in */
 " >> README.md
 		for f in $d/*.svg
 				set b (basename $f .svg)
-				echo "![$b]($f)" >> README.md
+				echo "[![$b]($f)]($f)" >> README.md
 		end
 end
