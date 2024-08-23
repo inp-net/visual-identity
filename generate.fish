@@ -1,6 +1,6 @@
 echo "# Identité visuelle d'INP-net
 
- > By [@ewenlbh](https://instagram.com/ewenlbh) :3
+ > By [@ewenlbh](https://instagram.com/ewenlbh) :3 — [ewen.works](https://ewen.works)
 
 " > README.md 
 
