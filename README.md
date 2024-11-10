@@ -4,6 +4,7 @@
 
 
 [![favicon-color](favicon-color.svg)](https://git.inpt.fr/inp-net/visual-identity/-/blob/main/favicon-color.svg)
+[![favicon-green-on-black](favicon-green-on-black.svg)](https://git.inpt.fr/inp-net/visual-identity/-/blob/main/favicon-green-on-black.svg)
 [![favicon-white-on-black](favicon-white-on-black.svg)](https://git.inpt.fr/inp-net/visual-identity/-/blob/main/favicon-white-on-black.svg)
 [![logo-black-pink-on-transparent](logo-black-pink-on-transparent.svg)](https://git.inpt.fr/inp-net/visual-identity/-/blob/main/logo-black-pink-on-transparent.svg)
 [![logo-color](logo-color.svg)](https://git.inpt.fr/inp-net/visual-identity/-/blob/main/logo-color.svg)
