@@ -1,6 +1,6 @@
 # Identité visuelle d'INP-net
 
- > By [@ewenlbh](https://instagram.com/ewenlbh) :3 — [ewen.works](https://ewen.works)
+ > By [@gwen_lbh](https://gwen.works/to/instagram) :3 — [gwen.works](https://gwen.works)
 
 
 [![favicon-color](favicon-color.svg)](https://git.inpt.fr/inp-net/visual-identity/-/blob/main/favicon-color.svg)
